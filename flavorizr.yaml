@@ -1,0 +1,18 @@
+flavors:
+  prod:
+    app:
+      name: "Royal Home"
+
+    android:
+      applicationId: "co.spiritude.royal.home"
+    ios:
+      bundleId: "co.spiritude.royal.home"
+
+  dev:
+    app:
+      name: "Royal Home dev"
+
+    android:
+      applicationId: "co.spiritude.royal.home.dev"
+    ios:
+      bundleId: "co.spiritude.royal.home.dev"

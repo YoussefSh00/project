@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "260372874116",
+    "project_id": "royal-home-dev-54d8c",
+    "storage_bucket": "royal-home-dev-54d8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260372874116:android:55d251aa78d93aa84d13d1",
+        "android_client_info": {
+          "package_name": "co.spiritude.royal.home.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260372874116-3l4o8uqivdgl1qviej49meq2c9a9nfng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.spiritude.royal.home.dev",
+            "certificate_hash": "16d672f0a865f762b367b345a75d959c4b784171"
+          }
+        },
+        {
+          "client_id": "260372874116-e5h9absrfnrp3f1ntqdsdtfgntsqtfrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUkl-fCkw_eN3vH8EdO6thEmE0euKO8E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260372874116-e5h9absrfnrp3f1ntqdsdtfgntsqtfrh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "260372874116-8q67f09mer7oeuk0kgo6msvgb008kvj7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.spiritude.royal-home"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

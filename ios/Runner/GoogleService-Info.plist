@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>260372874116-8q67f09mer7oeuk0kgo6msvgb008kvj7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.260372874116-8q67f09mer7oeuk0kgo6msvgb008kvj7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>260372874116-0455mqp9us6j56qog1b7cmvnbfggj5i2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBOwvZcZthTCdC88Lj1xL6v6n9UDmHSdM8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>260372874116</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.spiritude.royal-home</string>
+	<key>PROJECT_ID</key>
+	<string>royal-home-dev-54d8c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>royal-home-dev-54d8c.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:260372874116:ios:f11c0335beac98dc4d13d1</string>
+</dict>
+</plist>
